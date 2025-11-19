@@ -46,7 +46,7 @@ MACHINE_TRANSLATION/
 *   Properly saved **vectorizers** + **vocab JSONs** for inference in GUI.
     
 
-### ⚠️ **English → French Translation (Yet to be completed)**
+###  **English → French Translation**
 
 *   Model structure ready.
     
@@ -137,7 +137,8 @@ Training pipeline (eng-spanish.ipynb) includes:
 
 ### **1\. Clone the repository**
 
-`   git clone https://github.com/Akash-8004/Machine-Translation.git  cd Machine-Translation   `
+`   git clone https://github.com/Akash-8004/Machine-Translation.git `
+`   cd Machine-Translation   `
 
 ### **2\. Install dependencies**
 
