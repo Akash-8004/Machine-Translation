@@ -1,0 +1,83 @@
+# ----------------------------
+# Python cache / build files
+# ----------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.tmp
+
+# ----------------------------
+# Jupyter Notebook checkpoints
+# ----------------------------
+.ipynb_checkpoints/
+
+# ----------------------------
+# Virtual environments
+# ----------------------------
+venv/
+env/
+.venv/
+conda_env/
+.conda/
+
+# ----------------------------
+# OS / Editor files
+# ----------------------------
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# ----------------------------
+# TensorFlow / Keras model artifacts
+# ----------------------------
+*.h5
+*.keras
+*.pb
+*.tflite
+*.bin
+*.ckpt
+*.index
+*.data-*
+*.checkpoint
+saved_model/
+*.onnx
+
+
+
+# ----------------------------
+# Logs
+# ----------------------------
+*.log
+events.out.tfevents.*
+
+# ----------------------------
+# Build / distribution folders
+# ----------------------------
+dist/
+build/
+*.egg-info/
+
+# ----------------------------
+# Data files (optional)
+# Comment these if you want dataset pushed
+# ----------------------------
+data/*.txt
+data/*.csv
+data/*.tsv
+
+# ----------------------------
+# Cache, temp folders
+# ----------------------------
+.cache/
+.tmp/
+.temp/
+
+# ----------------------------
+# Windows executables
+# ----------------------------
+*.exe
+*.dll
+*.bat
