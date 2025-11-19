@@ -7,6 +7,7 @@ A Natural Language Processing (NLP) project that implements **sequence-to-sequen
 
 📂 **Project Structure**
 ------------------------
+```
 MACHINE_TRANSLATION/
 │
 ├── english_to_french_model/
@@ -29,6 +30,7 @@ MACHINE_TRANSLATION/
 │
 ├── gui.py                         # Tkinter-based GUI translator
 └── README.md
+```
 
 
 
@@ -135,7 +137,7 @@ Training pipeline (eng-spanish.ipynb) includes:
 
 ### **1\. Clone the repository**
 
-`   git clone https://github.com/yourusername/Machine-Translation.git  cd Machine-Translation   `
+`   git clone https://github.com/Akash-8004/Machine-Translation.git  cd Machine-Translation   `
 
 ### **2\. Install dependencies**
 
